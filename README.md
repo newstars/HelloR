@@ -1,6 +1,6 @@
-# "Hello Coding R" 저장소 입니다.
+# "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2018. 08. 27
+- Last Updated : 2018. 09. 07
 
 # 코드
 ---
@@ -27,7 +27,5 @@
 # 문의사항
 ---
 1. 코드 및 오타 등 각종 관련 문의는 [Issues] 탭에 올려주세요.
-2. 한빛미디어 운영 카페 "헬로코딩<Hello Coding>"에서도 문의가 가능합니다.
-- 네이버 카페 : https://cafe.naver.com/codinghello
   
   
