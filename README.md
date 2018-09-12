@@ -1,6 +1,7 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
+
 ---
-- Last Updated : 2018. 09. 07
+- Last Updated : 2018. 09. 13
 
 # 코드
 ---
@@ -9,7 +10,7 @@
 
 # 데이터
 ---
-책에 쓰인 모든 데이터는 [Data] 폴더에 있습니다.
+책에 쓰인 모든 데이터는 [Data](https://github.com/newstars/HelloR/tree/master/Data) 폴더에 있습니다.
 
 프로젝트에 쓰인 공공데이터 출처는 다음과 같습니다.
 1. 지방자치단체 데이터 : http://www.localdata.kr/
