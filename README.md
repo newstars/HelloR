@@ -22,6 +22,12 @@
 4. 국토교통부 실거래가 공개시스템 : http://rt.molit.go.kr/
 - 부동산 실거래가 정보
 
+# 구매
+---
+교보문고 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241202
+Yes24 : http://www.yes24.com/24/Goods/64497252
+알라딘 : http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168469351
+
 # Youtube 강의
 ---
 1. Youtube 에 간단하게 강의를 올릴 예정입니다.
