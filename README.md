@@ -1,7 +1,7 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
 - Last Updated : 2018. 09. 15
-<img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="80%"></img>
+<img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="70%" align="center"></img>
 
 # 코드
 ---
