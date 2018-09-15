@@ -2,7 +2,7 @@
 ---
 - Last Updated : 2018. 09. 15
 <div>
-<img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="70%" align="center"></img>
+<img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="70%" align="middle"></img>
 </div>
 
 # 코드
