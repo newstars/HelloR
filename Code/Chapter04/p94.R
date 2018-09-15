@@ -1,0 +1,11 @@
+# 데이터 1, 2, 3, 4, 5를 변수 ID에 할당
+ID <- c(1, 2, 3, 4, 5) 
+
+# 데이터 F, M, F, M, F를 변수 SEX에 할당
+SEX <- c("F", "M", "F", "M", "F") 
+
+# ID 변수와 SEX 변수로 데이터 프레임 생성
+data_ex <- data.frame(ID = ID, SEX = SEX) 
+
+# data_ex 데이터 세트를 data_ex.rda 파일로 저장
+save(data_ex, file = "data_ex.rda") 
