@@ -7,10 +7,13 @@
 # 코드
 ---
 코드는 [Code](https://github.com/newstars/HelloR/tree/master/Code) 폴더에 있습니다.
+
 - Chapter 03 (완료)
 - Chapter 04 (완료)
 - Chapter 08 (완료)
 - Chapter 09 (완료)
+- Chapter 10 (완료)
+
 - Project 01 (완료)
 - Project 02
 - Project 03
