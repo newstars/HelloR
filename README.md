@@ -39,7 +39,6 @@
 ---
 1. Youtube 에 간단하게 강의를 올릴 예정입니다.
 - 숏 URL : http://bit.ly/HelloJany
-- Youtube : https://www.youtube.com/channel/UCBbH_NiLhu5uXQ74Tf-qQhg
   
 # 문의사항
 ---
