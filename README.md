@@ -1,11 +1,15 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 
 ---
-- Last Updated : 2018. 09. 13
+- Last Updated : 2018. 09. 15
 
 # 코드
 ---
-정리 후 올릴 예정입니다.(9월말)
+코드는 [Code](https://github.com/newstars/HelloR/tree/master/Code) 폴더에 있습니다.
+Chapter 03 (완료)
+Chapter 04 (완료)
+Chapter 08 (완료)
+Project 01 (완료)
 
 
 # 데이터
