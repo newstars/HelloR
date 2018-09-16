@@ -27,7 +27,7 @@
 1. 지방자치단체 데이터 : http://www.localdata.kr/
 - 치킨집 업소 현황
 2. 서울특별시 대기환경 정보 : http://cleanair.seoul.go.kr/main.htm
-- 미세번지 환경 정보
+- 미세먼지 환경 정보
 3. 공공데이터포털 : https://www.data.go.kr/
 - 서울메트로 지하철 정보
 4. 국토교통부 실거래가 공개시스템 : http://rt.molit.go.kr/
