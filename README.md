@@ -8,19 +8,6 @@
 ---
 코드는 [Code](https://github.com/newstars/HelloR/tree/master/Code) 폴더에 있습니다.
 
-- Chapter 03 (완료)
-- Chapter 04 (완료)
-- Chapter 05 (완료)
-- Chapter 07 (완료)
-- Chapter 08 (완료)
-- Chapter 09 (완료)
-- Chapter 10 (완료)
-
-- Project 01 (완료)
-- Project 02
-- Project 03
-- Project 04
-
 # 데이터
 ---
 책에 쓰인 모든 데이터는 [Data](https://github.com/newstars/HelloR/tree/master/Data) 폴더에 있습니다.
@@ -43,8 +30,8 @@
 
 # Youtube 강의
 ---
-1. Youtube 에 간단하게 강의를 올릴 예정입니다.
-- 숏 URL : http://bit.ly/HelloJany
+1. HelloJany Youtube
+- URL : https://www.youtube.com/channel/UCBbH_NiLhu5uXQ74Tf-qQhg
   
 # 문의사항
 ---
