@@ -1,6 +1,6 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2018. 09. 19
+- Last Updated : 2018. 09. 26
 
 <img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="70%"></img>
 
@@ -11,7 +11,6 @@
 - Chapter 03 (완료)
 - Chapter 04 (완료)
 - Chapter 05 (완료)
-- Chapter 06
 - Chapter 07
 - Chapter 08 (완료)
 - Chapter 09 (완료)
