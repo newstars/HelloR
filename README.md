@@ -11,7 +11,7 @@
 - Chapter 03 (완료)
 - Chapter 04 (완료)
 - Chapter 05 (완료)
-- Chapter 07
+- Chapter 07 (완료)
 - Chapter 08 (완료)
 - Chapter 09 (완료)
 - Chapter 10 (완료)
