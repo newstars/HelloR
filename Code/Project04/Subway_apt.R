@@ -7,7 +7,7 @@ library(dplyr) # dplyr 패키지 로드
 library(ggmap) # ggmap 패키지 로드
 
 #csv 파일을 가져와서 station_data 변수에 할당
-station_data <- read.csv("13._역별_주소_및_전화번호.csv")
+station_data <- read.csv("c:/Rstudy/13._역별_주소_및_전화번호.csv")
 str(station_data) # station_data 속성 확인
 
 # as.character() 함수로 문자형으로 변환한 후 station_code에 할당
