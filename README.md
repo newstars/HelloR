@@ -1,6 +1,6 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2018. 09. 26
+- Last Updated : 2018. 12. 09
 
 <img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="70%"></img>
 
@@ -24,9 +24,9 @@
 
 # 구매
 ---
-- 교보문고 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241202
-- Yes24 : http://www.yes24.com/24/Goods/64497252
+- 교보문고 : http://mobile.kyobobook.co.kr/showcase/book/KOR/9791162241202
 - 알라딘 : http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168469351
+- Yes24 : http://www.yes24.com/24/Goods/64497252
 
 # Youtube 강의
 ---
@@ -36,5 +36,7 @@
 # 문의사항
 ---
 1. 코드 및 오타 등 각종 관련 문의는 [Issues] 탭에 올려주세요.
-  
-  
+
+# 정오표
+---
+현재까지의 오탈자는 모두 [한빛미디어 처음 시작하는 R 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6952054209) 하단에 있습니다.
