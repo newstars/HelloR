@@ -14,10 +14,8 @@ View(bind_col)
 
 # 제주 지역 17년 카드 이용 금액(jeju_y17_history)과 제주 지역 16년 카드 이용 금액(jeju_y16_ history) 데이터 세트에서 ID 값이 동일한 데이터만 가로 결합
 bind_col_inner <- inner_join(jeju_y17_history, jeju_y16_history, by = "ID")
-View(bind_col_full)
+View(bind_col_inner)
 
 # 제주 지역 17년 카드 이용 금액(jeju_y17_history)과 제주 지역 16년 카드 이용 금액(jeju_y16_ history) 데이터 세트에서 ID 변수를 기준으로 모든 데이터를 가로 결합
 bind_col_full <- full_join(jeju_y17_history, jeju_y16_history, by = "ID")
-View(bind_col_inner)
-
- 
+View(bind_col_full)
