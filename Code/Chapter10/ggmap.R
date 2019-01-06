@@ -11,6 +11,9 @@ library(ggmap)
 # 2. 프로젝트 신규로 생성하기
 # 3. Google Maps Platform API Key 활용하기
 
+# 프로젝트 설정 이후 API Key 확인하기
+# https://console.cloud.google.com/
+
 googleAPIkey = "API 키 입력하기"
 
 # seoul의 위치 정보를 가져온 후 gg_seoul 변수에 할당
