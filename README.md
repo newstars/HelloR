@@ -1,15 +1,14 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2019. 1. 6
+- Last Updated : 2019. 1. 7.
 
 <img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="50%"></img>
 
 # 공지사항
 ---
 P.236 ggmap 패키지 (수정 완료)
-P.292, p.306 지하철역 데이터 가공하기 (수정 예정)
+P.292, p.306 지하철역 데이터 가공하기 (수정 완료)
 * ggmap 패키지가 Google Maps Platform 출시로 인해 사용법이 변경되었습니다.
-* 예제 코드가 수정되는 데로 다시 공지하도록 하겠습니다.
 
 바뀐 ggmap 패키지 사용법 알아보기 YOUTUBE 영상
 https://www.youtube.com/watch?v=yZpBDOjlko0
