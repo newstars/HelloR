@@ -1,10 +1,13 @@
 #Project04 지하철역 주변 아파트 가격 알아보기
+# Google Map Platform 출시로 인해 ggmap 패키지 변경됨
+
+install.packages("devtools") #install_github() 사용을 위한 devtools 설치
+library(devtools)
+install_github("dkahle/ggmap") # github에서 ggmap 패키지 설치
+library(ggmap)
 
 install.packages("dplyr") # dplyr 패키지 설치 
-install.packages("ggmap") # ggmap 패키지 설치
-
 library(dplyr) # dplyr 패키지 로드 
-library(ggmap) # ggmap 패키지 로드
 
 #csv 파일을 가져와서 station_data 변수에 할당
 station_data <- read.csv("c:/Rstudy/13._역별_주소_및_전화번호.csv")
@@ -12,6 +15,10 @@ str(station_data) # station_data 속성 확인
 
 # as.character() 함수로 문자형으로 변환한 후 station_code에 할당
 station_code <- as.character(station_data$"구주소")
+
+# google api key 등록
+googleAPIkey <- "구글 API 키"
+register_google(googleAPIkey)
 
 # geocode() 함수로 station_code 값을 위도와 경도로 변환
 station_code <- geocode(station_code)
