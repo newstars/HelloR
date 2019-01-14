@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=yZpBDOjlko0
 # Youtube 강의
 ---
 1. HelloJany Youtube
-- URL : https://www.youtube.com/channel/UCBbH_NiLhu5uXQ74Tf-qQhg
+- URL : https://www.youtube.com/c/HELLOJANY
   
 # 문의사항
 ---
