@@ -42,7 +42,7 @@ bigdata_noun <- sapply(bigdata_text, extractNoun, USE.NAMES = F)
 bigdata_noun <- unlist(bigdata_noun)
 
 # 2글자 이상인 단어만 추출하여 저장
-bigdata_noun <- filter(function(x) { nchar(x) >= 2 }, bigdata_noun) 
+bigdata_noun <- Filter(function(x) { nchar(x) >= 2 }, bigdata_noun) 
 bigdata_noun <- gsub("[A-Za-z0-9]", "", bigdata_noun) # 영어, 숫자 제거
 
 #불필요 텍스트 클랜징
