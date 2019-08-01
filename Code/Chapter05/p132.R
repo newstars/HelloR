@@ -1,3 +1,6 @@
+install.packages("psych") #psych 패키지 설치
+library(psych)            #psych 패키지 로드
+
 # 데이터 값 1, 2, 3, 4, 5, 6, 100을 x1에 할당 
 x1 <- c(1, 2, 3, 4, 5, 6, 100) 
 
