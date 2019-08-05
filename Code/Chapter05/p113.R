@@ -1,6 +1,9 @@
 install.packages("dplyr") # dplyr 패키지 설치
 library(dplyr) # dplyr 패키지 로드
 
+install.packages("readxl") # dplyr 패키지 설치
+library(readxl) # readxl 패키지 로드
+
 # Sample1 엑셀 파일을 불러와서 exdata1 데이터 세트로 저장
 exdata1 <- read_excel("C:/Rstudy/Sample1.xlsx")
 
