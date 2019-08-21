@@ -5,7 +5,6 @@ install.packages("wordcloud2")
 # install_github("lchiffon/wordcloud2")
 
 library(wordcloud2)
-library(htmltools) #R Studio Viewer Pane 에서 안보일 경우
 
 wordcloud2(demoFreq, figPath = "peace.png", size=2.7)
   
