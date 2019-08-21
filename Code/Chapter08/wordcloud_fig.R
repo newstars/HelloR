@@ -1,8 +1,8 @@
 install.packages("wordcloud2")
 
-#정상 동작 안될시 아래의 방법으로 wordcloud2를 다시 설치하세요.
-require(devtools)
-install_github("lchiffon/wordcloud2")
+#정상 동작 안될시 아래의 코드에서 주석("#")을 지우고 wordcloud2를 다시 설치하세요.
+# require(devtools)
+#i nstall_github("lchiffon/wordcloud2")
 
 library(wordcloud2)
 library(htmltools) #R Studio Viewer Pane 에서 안보일 경우
