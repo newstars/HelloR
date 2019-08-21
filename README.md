@@ -1,6 +1,6 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2019. 4. 7.
+- Last Updated : 2019. 8. 21.
 
 <img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="50%"></img>
 
@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=yZpBDOjlko0
 # 문의사항
 ---
 1. 코드 및 오타 등 각종 관련 문의는 [Issues] 탭에 올려주세요.
+2. MAC 에서 8장 KoNLP 관련 이슈는 [여기](https://rstudio-pubs-static.s3.amazonaws.com/390520_0e53f55571474119b82a059e9dc1403d.html)를 참고하세요.
 
 # 정오표
 ---
