@@ -1,6 +1,6 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2019. 8. 21.
+- Last Updated : 2020. 2. 5.
 
 <img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="50%"></img>
 
@@ -14,6 +14,9 @@
 
 바뀐 ggmap 패키지 사용법 알아보기 YOUTUBE 영상
 https://www.youtube.com/watch?v=yZpBDOjlko0
+
+- P.179-180 KoNLP 설치이슈
+--> 현재 코드 내부적인 이슈로 KoNLP 패키지가 cran에서 내려져 있어서 설치가 되지 않고 있습니다.
 
 # 코드
 ---
