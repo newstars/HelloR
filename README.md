@@ -1,6 +1,6 @@
 # "처음 시작하는 R 데이터 분석" 저장소 입니다.
 ---
-- Last Updated : 2020. 2. 5.
+- Last Updated : 2020. 2. 20.
 
 <img src="https://github.com/newstars/HelloR/blob/master/Book.jpg" width="50%"></img>
 
@@ -17,6 +17,9 @@ https://www.youtube.com/watch?v=yZpBDOjlko0
 
 - P.179-180 KoNLP 설치이슈
 --> 현재 코드 내부적인 이슈로 KoNLP 패키지가 cran에서 내려져 있어서 설치가 되지 않고 있습니다.
+https://cran.r-project.org/web/packages/KoNLP/index.html
+* Github 에 있는 버전으로 설치하셔야 합니다.
+https://www.facebook.com/notes/r-korea-krugkorean-r-user-group/konlp-%EC%84%A4%EC%B9%98-%EC%9D%B4%EC%8A%88-%EA%B3%B5%EC%9C%A0/1847510068715020/
 
 # 코드
 ---
