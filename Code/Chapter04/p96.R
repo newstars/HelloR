@@ -1,5 +1,5 @@
 # 데이터 1, 2, 3, 4, 5를 변수 lD에 할당
-lD <- c(1, 2, 3, 4, 5)
+ID <- c(1, 2, 3, 4, 5)
 
 # 데이터 F, M, F, M, F를 변수 SEX에 할당
 SEX <- c("F", "M", "F", "M", "F")
@@ -8,4 +8,4 @@ SEX <- c("F", "M", "F", "M", "F")
 data_ex <- data.frame(ID = ID, SEX = SEX)
 
 # data_ex 데이터세트를 data_ex.txt파일로저장
-write.table(data_ex, file = "C:\Rstudy\data_ex.txt") 
+write.table(data_ex, file = "C:/Rstudy/data_ex.txt") 
