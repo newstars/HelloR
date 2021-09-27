@@ -1,9 +1,12 @@
 # 10장 ggmap
 # Google Map Platform 출시로 인해 ggmap 패키지 변경됨
 
-install.packages("devtools")
-library(devtools)
-install_github("dkahle/ggmap")
+#install.packages("devtools")
+#library(devtools)
+#install_github("dkahle/ggmap")
+
+#ggmap 정식 패키지 설치
+install.packages("ggmap")
 library(ggmap)
 
 # http://developers.google.com/maps/terms
